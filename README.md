@@ -7,6 +7,7 @@ This program using file scan for virus and malware
 
 ## Example
 Enter the path of the file to be checked: (filepath)
+
 Enter the path of the output file (must be .txt because results will be written to it): (output path)
 
 Thats it!
